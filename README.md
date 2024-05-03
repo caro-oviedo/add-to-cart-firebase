@@ -19,4 +19,5 @@ Scrimba project
 + Favicon
 + Web Application Manifest
   
-<img src ="assets/addTocart.png" width=50%>
+<img src ="addToCart.png" width=50%>
+<img src ="addToCartMobile2.png" width=50%>
