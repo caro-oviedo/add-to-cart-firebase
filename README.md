@@ -3,6 +3,7 @@ Scrimba project
 
 ## Topics
 
++ Netlify
 + Import
 + Firebase
 - initializeApp
