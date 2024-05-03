@@ -20,4 +20,4 @@ Scrimba project
 + Web Application Manifest
   
 <img src ="addToCart.png" width=50%>
-<img src ="addToCartMobile2.png" width=50%>
+<img src ="addToCartMobile2.png" width=30%>
